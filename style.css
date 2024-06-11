@@ -1,0 +1,118 @@
+body{
+    padding: 5%;
+}
+.nav{
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+    font-size: 25px;
+    /* position: fixed; */
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0%;
+    margin-left: 5%;
+    width: 100%;
+    
+}
+.icon{
+    width:20px;
+    height: 2px;
+    background-color: black;
+    margin: 6px;
+}
+.menu{
+    margin-left:-20%;
+    margin-top: -1%;
+}
+p{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 1%;
+    margin-right: -2%
+}
+.main .photo .aa{
+    /* margin-top: 2%; */
+    margin-left: 2%;
+}
+.space1{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows:40px ;
+    gap:2px;
+    margin-top: -2%;
+  }
+.photo{
+    display: flex; 
+}
+.main .photo1 .aa{
+    margin-top:-150px;
+    margin-left: 2%;
+}
+.photo1{
+    display: flex; 
+}
+.man{
+    font-size: 30px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight:200;
+margin-top: -9%;
+text-align: center;
+}
+.man1 {
+    margin-top: -2%;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    place-items:center;
+}
+.man1 .text1{
+    margin-top: -39%;
+    font-size: 26px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.man1 .text2{
+    margin-top: -69%;
+    font-size: 26px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.text3{
+    margin-top: -31%;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+footer{
+    display: flex;
+    gap: 4%;
+    padding: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+footer .d1{
+    width: 36%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+footer .d2{
+    width: 30%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer img {
+    margin-top: 9%;
+    display: flex;
+}
+.d2 .m1 {
+   
+    display: flex;
+}
+.d2 .m1 p3{
+    margin-top: 15%;
+    margin-left: 3%;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    background-color: black;
+    color: white;
+    
+}
